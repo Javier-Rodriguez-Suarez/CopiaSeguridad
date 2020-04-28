@@ -25,6 +25,7 @@ public class CopiaSeguridad {
         copiar(ruta, destino);
         
         System.out.println("Directorios y archivos copiados");
+        System.out.println("Directorios y archivos copiados");
     }
     
     private static void copiar(File inicio, File fin){                                      //Función que copia los archivos y directorios recursivamente
